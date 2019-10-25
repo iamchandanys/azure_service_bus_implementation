@@ -1,0 +1,11 @@
+C:\Users\UDMUser002\Downloads\MessageReceiver\MessageReceiver\bin\Debug\netcoreapp2.2\MessageReceiver.deps.json
+C:\Users\UDMUser002\Downloads\MessageReceiver\MessageReceiver\bin\Debug\netcoreapp2.2\MessageReceiver.runtimeconfig.json
+C:\Users\UDMUser002\Downloads\MessageReceiver\MessageReceiver\bin\Debug\netcoreapp2.2\MessageReceiver.runtimeconfig.dev.json
+C:\Users\UDMUser002\Downloads\MessageReceiver\MessageReceiver\bin\Debug\netcoreapp2.2\MessageReceiver.dll
+C:\Users\UDMUser002\Downloads\MessageReceiver\MessageReceiver\obj\Debug\netcoreapp2.2\MessageReceiver.csprojAssemblyReference.cache
+C:\Users\UDMUser002\Downloads\MessageReceiver\MessageReceiver\obj\Debug\netcoreapp2.2\MessageReceiver.csproj.CoreCompileInputs.cache
+C:\Users\UDMUser002\Downloads\MessageReceiver\MessageReceiver\obj\Debug\netcoreapp2.2\MessageReceiver.AssemblyInfoInputs.cache
+C:\Users\UDMUser002\Downloads\MessageReceiver\MessageReceiver\obj\Debug\netcoreapp2.2\MessageReceiver.AssemblyInfo.cs
+C:\Users\UDMUser002\Downloads\MessageReceiver\MessageReceiver\bin\Debug\netcoreapp2.2\MessageReceiver.pdb
+C:\Users\UDMUser002\Downloads\MessageReceiver\MessageReceiver\obj\Debug\netcoreapp2.2\MessageReceiver.dll
+C:\Users\UDMUser002\Downloads\MessageReceiver\MessageReceiver\obj\Debug\netcoreapp2.2\MessageReceiver.pdb

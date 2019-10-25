@@ -1,0 +1,11 @@
+C:\Users\UDMUser002\Downloads\MessageSender\MessageSender\bin\Debug\netcoreapp2.2\MessageSender.deps.json
+C:\Users\UDMUser002\Downloads\MessageSender\MessageSender\bin\Debug\netcoreapp2.2\MessageSender.runtimeconfig.json
+C:\Users\UDMUser002\Downloads\MessageSender\MessageSender\bin\Debug\netcoreapp2.2\MessageSender.runtimeconfig.dev.json
+C:\Users\UDMUser002\Downloads\MessageSender\MessageSender\bin\Debug\netcoreapp2.2\MessageSender.dll
+C:\Users\UDMUser002\Downloads\MessageSender\MessageSender\obj\Debug\netcoreapp2.2\MessageSender.csprojAssemblyReference.cache
+C:\Users\UDMUser002\Downloads\MessageSender\MessageSender\obj\Debug\netcoreapp2.2\MessageSender.csproj.CoreCompileInputs.cache
+C:\Users\UDMUser002\Downloads\MessageSender\MessageSender\obj\Debug\netcoreapp2.2\MessageSender.AssemblyInfoInputs.cache
+C:\Users\UDMUser002\Downloads\MessageSender\MessageSender\obj\Debug\netcoreapp2.2\MessageSender.AssemblyInfo.cs
+C:\Users\UDMUser002\Downloads\MessageSender\MessageSender\bin\Debug\netcoreapp2.2\MessageSender.pdb
+C:\Users\UDMUser002\Downloads\MessageSender\MessageSender\obj\Debug\netcoreapp2.2\MessageSender.dll
+C:\Users\UDMUser002\Downloads\MessageSender\MessageSender\obj\Debug\netcoreapp2.2\MessageSender.pdb
